@@ -1,13 +1,13 @@
-# Angular Movies | TV Shows (beta)
+# CleanFlix Movies | TV Shows
 
 ## 🚀 Getting Started
 
-Angular Movies | TV Shows is a simple web app that consumes The Movie DB API, it can show you interesting data about popular movies and series - **still working on it**.
+CleanFlix Movies | TV Shows is a simple web app that consumes The Movie DB API, it can show you interesting data about popular movies and series - **still working on it**.
 
 See **Installing** for steps to make it work in your local environment.
 ## 💻 Live Demo
 
-✔ Github Pages: https://jancobh.github.io/Angular-Movies/ (new with Angular 14 + improvements + still working on it).
+✔ Github Pages: https://randallerasmus.github.io/Angular-Movies/ (new with Angular 14 + improvements + still working on it).
 
 ❌ Firebase hosting: https://angular-movies-c91ba.firebaseapp.com/ (old with Angular 8 and a lot of unnecessary code with bugs).
 
@@ -21,7 +21,7 @@ See **Installing** for steps to make it work in your local environment.
 ## 🔧 Installing
 
 ```bash
-git clone https://github.com/JancoBH/Angular-Movies.git
+git clone https://github.com/randallerasmus/Angular-Movies.git
 cd Angular-Movies
 npm install
 ng serve and enjoy it
@@ -42,4 +42,4 @@ You can check <a href="https://angular.io/guide/deployment" target="_blank">Angu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-🧑‍💻 Developed by [JancoBH](https://github.com/JancoBH)
+🧑‍💻 Developed by [RandallErasmus](https://github.com/randallerasmus)

@@ -13,8 +13,8 @@ import {NgForOf} from "@angular/common";
 export class FooterComponent {
 
   socialData = [
-    {url: 'https://twitter.com/JancoBH', name: 'Twitter', img: './assets/svg/twitter.svg'},
-    {url: 'https://github.com/JancoBH', name: 'Github', img: './assets/svg/github.svg'}
+    {url: 'https://twitter.com/ErasmusRandall', name: 'Twitter', img: './assets/svg/twitter.svg'},
+    {url: 'https://github.com/randallerasmus', name: 'Github', img: './assets/svg/github.svg'}
   ];
 
   constructor() { }
